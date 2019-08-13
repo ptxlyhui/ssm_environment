@@ -8,8 +8,7 @@ spring和springMVC是天然集成,所以只需要解决mybatis和spring整合的
 
 
 ## 整合目录
-
-https://github.com/ptxlyhui/ssm_environment/blob/master/iamge/%E6%95%B4%E5%90%88%E7%9B%AE%E5%BD%95.jpeg
+![image](https://github.com/ptxlyhui/ssm_environment/blob/master/iamge/%E6%95%B4%E5%90%88%E7%9B%AE%E5%BD%95.jpeg)
 
 ## 引入依赖
 
